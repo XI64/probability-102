@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "df6f063c7b77e367",
+    "type": "split",
+    "children": [
+      {
+        "id": "4067d86e70c8fc83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CodeWorks.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00ed4af21dc0befd",
+    "type": "split",
+    "children": [
+      {
+        "id": "905de9860d70a57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "965cc2f629c38a74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba102cec71c3f7c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c13e7713bf98b3a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e76d1fc4568cc17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "28890ffa524cd140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815e2feed4de5054",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CodeWorks.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ed7b29a11481af5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CodeWorks.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79661022688e4651",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a9ae48688fb6199",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CodeWorks.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4067d86e70c8fc83",
+  "lastOpenFiles": [
+    "Probability_Notes.md.md"
+  ]
+}
